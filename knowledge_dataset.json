@@ -1,0 +1,56 @@
+[
+    {
+        "Category": "General Knowledge",
+        "Topic": "Continents",
+        "Key": "Largest Continent",
+        "Value": "Asia"
+    },
+    {
+        "Category": "Programming",
+        "Topic": "Python",
+        "Key": "Popular Web Framework",
+        "Value": "Django"
+    },
+    {
+        "Category": "Mathematics",
+        "Topic": "Algebra",
+        "Key": "Quadratic Formula",
+        "Value": "(-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a"
+    },
+    {
+        "Category": "Languages",
+        "Topic": "Spanish",
+        "Key": "Hello",
+        "Value": "Hola"
+    },
+    {
+        "Category": "Electronics",
+        "Topic": "Arduino",
+        "Key": "Popular Board",
+        "Value": "Arduino Uno"
+    },
+    {
+        "Category": "AI/ML",
+        "Topic": "Algorithms",
+        "Key": "Supervised Learning Example",
+        "Value": "Linear Regression"
+    },
+    {
+        "Category": "Indian Knowledge",
+        "Topic": "Sanskrit",
+        "Key": "Meaning of 'Dharma'",
+        "Value": "Righteous duty"
+    },
+    {
+        "Category": "Education",
+        "Topic": "CBSE Class 10",
+        "Key": "Science Chapter 1",
+        "Value": "Chemical Reactions and Equations"
+    },
+    {
+        "Category": "Daily Life",
+        "Topic": "Units",
+        "Key": "1 km in meters",
+        "Value": "1000 meters"
+    }
+]
